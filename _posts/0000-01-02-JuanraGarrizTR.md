@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Txapitu de baratiyo
 Utiliza la flecha hacia la izquierda para volver!
